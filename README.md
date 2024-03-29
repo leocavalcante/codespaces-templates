@@ -22,6 +22,7 @@ To learn more about Codespaces, click [here](https://github.com/features/codespa
 |Django|GitHub|[Django](https://github.com/github/codespaces-django)|Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design.||
 |Flask|GitHub|[Flask](https://github.com/github/codespaces-flask)|Flask is a lightweight web application framework.||
 |Preact|GitHub|[Preact](https://github.com/github/codespaces-preact)|A fast 3kB alternative to React with the same modern API.||
+|PHP|OpenCodeCo|[PHP](https://github.com/opencodeco/codespaces-php)|A popular general-purpose scripting language that is especially suited to web development.||
 
 # Partner Contribution Requirements:
 - Partners must be members of the [GitHub Technology Partner Program](https://partner.github.com/technology-partners) to participate.
